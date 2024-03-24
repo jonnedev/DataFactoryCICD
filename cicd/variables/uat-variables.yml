@@ -6,7 +6,7 @@ variables:
 
 # Data Factory (ADF)
 - name: DataFactoryName
-  value: adf-njl-uat
+  value: adf-miws-uat
 
 - name: DataFactoryTemplateParametersFilePath
   value: "$(Build.Repository.LocalPath)/cicd/adf-cicd/adf-uat-template-parameters.json"
