@@ -6,7 +6,7 @@ variables:
 
 # Data Factory (ADF)
 - name: DataFactoryName
-  value: adf-miws-uat
+  value: adf-njl-uat
 
 - name: DataFactoryTemplateParametersFilePath
   value: "$(Build.Repository.LocalPath)/cicd/adf-cicd/adf-uat-template-parameters.json"
@@ -22,7 +22,7 @@ variables:
 
 # Key Vault
 - name: KeyVaultName
-  value: kv-miws-adf-cicd-uat
+  value: kv-njl-adf-cicd-uat
       
 - name: KeyVaultResourceGroupName
   value: rg-adf-cicd-uat
