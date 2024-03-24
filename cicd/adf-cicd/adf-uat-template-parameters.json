@@ -9,10 +9,10 @@
             "value": "https://adlsadfcicduat.dfs.core.windows.net/"
         },
         "LS_KV_properties_typeProperties_baseUrl": {
-            "value": "https://kv-njl-adf-cicd-uat.vault.azure.net/"
+            "value": "https://kv-miws-adf-cicd-uat.vault.azure.net/"
         },
         "default_properties_GL_KV_NAME_value": {
-            "value": "kv-njl-adf-cicd-uat"
+            "value": "kv-miws-adf-cicd-uat"
         }
     }
 }
