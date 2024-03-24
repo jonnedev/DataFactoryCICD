@@ -2,7 +2,7 @@
 
 variables: 
 - name: BuildDataFactoryName
-  value: adf-njl-dev
+  value: adf-miws-dev
 
 - name: BuildDataFactoryResourceGroupName
   value: rg-adf-cicd-dev
