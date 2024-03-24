@@ -1,0 +1,9 @@
+{
+	"name": "adf-miws-uat",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a7122cc-34b1-4427-a9b0-1c809245148c",
+		"tenantId": "48091bc9-db3e-4f34-8b0b-20ae1644bf80"
+	}
+}

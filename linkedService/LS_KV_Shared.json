@@ -1,0 +1,10 @@
+{
+	"name": "LS_KV_Shared",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://dikw-akv-001-dev.vault.azure.net/"
+		}
+	}
+}

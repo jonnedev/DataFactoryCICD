@@ -6,7 +6,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://kv-njl-adf-cicd-dev.vault.azure.net/"
+			"baseUrl": "https://kv-miws-adf-cicd-uat.vault.azure.net/"
 		}
 	}
 }

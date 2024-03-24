@@ -1,0 +1,18 @@
+{
+	"name": "MetaDataSQL",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "Integrated Security=False;Data Source=dikw-sqlsvr-001-dev.database.windows.net;Initial Catalog=dap-sqldb-dev;User ID=rootuser",
+			"password": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "LS_KV_Shared",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "sql-secret"
+			}
+		}
+	}
+}
